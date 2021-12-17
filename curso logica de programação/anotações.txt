@@ -1,0 +1,2 @@
+na linguagem de programação C voce sempre tem que declarar a biblioteca
+em C o comando para imprimir na tela é: printf
