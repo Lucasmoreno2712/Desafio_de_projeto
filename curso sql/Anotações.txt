@@ -1,0 +1,20 @@
+curso de sql na udemy
+comandos basicos que estudei até agora:
+
+SELECT que é uma declaração SQL que retorna um conjunto 
+de resultados de registros de uma ou mais tabelas.
+
+INSIRT INTO "NOME DA TABELA" VALUES que é uma declaração 
+em SQL que serve para inserir valores a colunas da tabela.
+
+CREATE TABLE comando para criar uma tabela.
+
+CREATE DATABASE comando para criar um banco de dados.
+
+SHOW TABLES comando para ver as tabelas que existe no banco
+
+SHOW DATABASES comando para ver quais bancos existem na sua
+maquina.
+
+USE 'NOME DO BANCO' comando para se conectar ao banco.
+
