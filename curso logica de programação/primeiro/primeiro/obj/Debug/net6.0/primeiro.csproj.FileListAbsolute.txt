@@ -1,0 +1,15 @@
+C:\Users\r6cla\source\repos\primeiro\primeiro\bin\Debug\net6.0\primeiro.exe
+C:\Users\r6cla\source\repos\primeiro\primeiro\bin\Debug\net6.0\primeiro.deps.json
+C:\Users\r6cla\source\repos\primeiro\primeiro\bin\Debug\net6.0\primeiro.runtimeconfig.json
+C:\Users\r6cla\source\repos\primeiro\primeiro\bin\Debug\net6.0\primeiro.dll
+C:\Users\r6cla\source\repos\primeiro\primeiro\bin\Debug\net6.0\ref\primeiro.dll
+C:\Users\r6cla\source\repos\primeiro\primeiro\bin\Debug\net6.0\primeiro.pdb
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfo.cs
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.dll
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\ref\primeiro.dll
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.pdb
+C:\Users\r6cla\source\repos\primeiro\primeiro\obj\Debug\net6.0\primeiro.genruntimeconfig.cache
